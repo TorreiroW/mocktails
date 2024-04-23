@@ -1,5 +1,7 @@
 # Shark Attack
 
+![Shark Attack](assets/images/shark-attack.png){ loading=lazy }
+
 | :timer_clock: Total Time |
 |:-----------------------: |
 | 0 minutes |

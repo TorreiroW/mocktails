@@ -1,5 +1,7 @@
 # Passion Tamarind Heatwave
 
+![Passion Tamarind Heatwave](assets/images/passion-tamarind-heatwave.png){ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 1 | 0 minutes |

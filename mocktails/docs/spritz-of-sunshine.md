@@ -1,5 +1,7 @@
 # Spritz of Sunshine
 
+![Spritz of Sunshine](assets/images/spritz-of-sunshine.png){ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 4 | 0 minutes |

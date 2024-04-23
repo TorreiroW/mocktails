@@ -1,5 +1,7 @@
 # Blueberry Lavender Dream
 
+![Blueberry Lavender Dream](assets/images/blueberry-lavender-dream.png){ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 1 | 0 minutes |

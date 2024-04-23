@@ -1,5 +1,7 @@
 # Margarita Apple Cider
 
+![Margarita Apple Cider](assets/images/margarita-apple-cider.png){ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 2 | 0 minutes |

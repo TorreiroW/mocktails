@@ -1,5 +1,7 @@
 # Mango Mule
 
+![Mango Mule](assets/images/mango-mule.png){ loading=lazy }
+
 | :timer_clock: Total Time |
 |:-----------------------: |
 | 0 minutes |

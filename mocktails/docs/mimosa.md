@@ -1,5 +1,7 @@
 # Mimosa
 
+![Mimosa](assets/images/mimosa.png){ loading=lazy }
+
 | :timer_clock: Total Time |
 |:-----------------------: |
 | 0 minutes |
