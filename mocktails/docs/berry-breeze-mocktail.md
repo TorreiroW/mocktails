@@ -23,7 +23,7 @@ Doe ijsblokjes in het glas en schenk er de non-alcoholische gin over.
 
 ### Step 3
 
-Giet er de vlierbloesemlimonade bij.
+Giet er de vlierbloesemlimoenade bij.
 
 ### Step 4
 

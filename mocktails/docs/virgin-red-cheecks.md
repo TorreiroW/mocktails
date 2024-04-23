@@ -11,7 +11,7 @@
 - 2 cl limoensap
 - 1 cl violetsiroop
 - some crushed ice
-- some gingerr ale
+- some Ginger Ale 
 - 1 pcs limoenpartje
 
 ## :cooking: Cookware
@@ -30,5 +30,5 @@ krachtig tot de shaker ijskoud aanvoelt. Minimaal 2 minuten
 
 ### Step 2
 
-Zeef de cocktail met een groffe zeef in een voorgekoeld tumblerglas. Vul het glas met crushed ice en top af met gingerr
-ale. Garneer met een limoenpartje en een (milieuvriendelijk) rietje.
+Zeef de cocktail met een groffe zeef in een voorgekoeld tumblerglas. Vul het glas met crushed ice en top af met Ginger
+Ale  . Garneer met een limoenpartje en een (milieuvriendelijk) rietje.

@@ -1,12 +1,14 @@
 # Shirly Temple
 
+![Shirly Temple](assets/images/shirly-temple.png){ loading=lazy }
+
 | :timer_clock: Total Time |
 |:-----------------------: |
 | 0 minutes |
 
 ## :salt: Ingredients
 
-- 150 gr ijsblokje
+- 150 gr ijsblokjes
 - 50 ml grenadine
 - 200 ml Sprite
 - 200 ml Ginger Ale
@@ -17,11 +19,11 @@
 
 ### Step 1
 
-Giet de ijsblokje in het glas en schenk de grenadine er overheen.
+Giet de ijsblokjes in het glas en schenk de grenadine er overheen.
 
 ### Step 2
 
-Voeg vervolgens de Sprite en Ginger Ale toe.
+Voeg vervolgens de Sprite en Ginger Ale  toe.
 
 ### Step 3
 

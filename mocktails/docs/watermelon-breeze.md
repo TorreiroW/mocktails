@@ -1,5 +1,7 @@
 # Watermelon Breeze
 
+![Watermelon Breeze](assets/images/watermelon-breeze.png){ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 2 | 0 minutes |
@@ -8,7 +10,7 @@
 
 - 3 cups watermeloen
 - 1 kokoswater(1%cup)
-- 1 pcs limon
+- 1 pcs limoen
 - 1 takje takje munt
 - 2 pcs ijsblokjes
 
@@ -30,7 +32,7 @@ Doe de gesneden gekoelde watermeloen in de blender en voeg het kokoswater(1%cup)
 
 ### Step 4
 
-Pers de verse limon uit en voeg het sap ook toe.
+Pers de verse limoen uit en voeg het sap ook toe.
 
 ### Step 5
 
@@ -50,4 +52,4 @@ Kijk of de textuur dun/dik genoeg is en proef met een theelepeltje of de smaak n
 
 ### Step 9
 
-Voeg naar smaak nog wat ijs of munt toe.
+Voeg naar smaak nog wat ijsblokjes of munt toe.

@@ -1,5 +1,7 @@
 # Plum Basil Bliss
 
+![Plum Basil Bliss](assets/images/plum-basil-bliss.png){ loading=lazy }
+
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
 | 1 | 0 minutes |
@@ -10,7 +12,8 @@
 - 0.25 pcs (mini) komkommer
 - 0.75 pcs pruim
 - 0.25 pcs appel
-- 125 ml druiven- en appelsap
+- 60 ml druivensap
+- 60 ml appelsap
 
 ## :cooking: Cookware
 
@@ -38,7 +41,7 @@ Doe het gesneden fruit ook in de glas.
 
 ### Step 6
 
-Vul aan met druiven- en appelsap en laat het minstens 1 uur trekken in de koelkast.
+Vul aan met druivensap en appelsap en laat het minstens 1 uur trekken in de koelkast.
 
 ### Step 7
 

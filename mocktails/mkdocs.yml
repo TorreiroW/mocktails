@@ -16,7 +16,7 @@ theme:
     repo: fontawesome/brands/github
     logo: fontawesome/solid/bowl-rice
   custom_dir: overrides
-  favicon: assets/images/favicon.svg
+  favicon: /assets/images/favicon.svg
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default

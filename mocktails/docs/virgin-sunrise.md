@@ -1,5 +1,7 @@
 # Virgin Sunrise
 
+![Virgin Sunrise](assets/images/virgin-sunrise.png){ loading=lazy }
+
 | :timer_clock: Total Time |
 |:-----------------------: |
 | 0 minutes |

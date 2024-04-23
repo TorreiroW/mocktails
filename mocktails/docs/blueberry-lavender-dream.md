@@ -8,7 +8,7 @@
 
 - some bosbessensap
 - 0.25 cup lavendelsiroop
-- 1 scheutje limonade
+- 1 scheutje limoenade
 - some bosbessen
 
 ## :cooking: Cookware
@@ -23,7 +23,7 @@ Zorg ervoor dat je glas klaarstaat.
 
 ### Step 2
 
-Voeg het bosbessensap, de lavendelsiroop en een scheutje limonade toe aan het glas.
+Voeg het bosbessensap, de lavendelsiroop en een scheutje limoenade toe aan het glas.
 
 ### Step 3
 

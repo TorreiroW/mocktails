@@ -6,9 +6,9 @@
 
 ## :salt: Ingredients
 
-- 4 pcs sinaasappelen
+- 4 pcs sinaasappel
 - 2 schijfjes gember
-- 1 glas ginger ale
+- 1 glas Ginger Ale
 
 ## :cooking: Cookware
 
@@ -18,7 +18,7 @@
 
 ### Step 1
 
-Snij de sinaasappelen door de helft. Snij enkele sneetjes af en hou apart ter decoratie.
+Snij de sinaasappel door de helft. Snij enkele sneetjes af en hou apart ter decoratie.
 
 ### Step 2
 
@@ -26,11 +26,11 @@ Snij enkele dunne schijfjes van de gember.
 
 ### Step 3
 
-Pers de sinaasappelen.
+Pers de sinaasappel.
 
 ### Step 4
 
-Meng het vruchtensap met de ginger ale.
+Meng het vruchtensap met de Ginger Ale .
 
 ### Step 5
 

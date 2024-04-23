@@ -13,7 +13,7 @@
 - 8 ts[]} appelsap
 - 3 tsp Spritz ALCV
 - 3 tsp limoen sap
-- 1 ijs
+- 1 ijsblokjes
 
 ## :cooking: Cookware
 
@@ -49,7 +49,7 @@ Pak een shaker en voeg de Mexiac Aguave Spirit, appelsap Spritz ALCV en het limo
 
 ### Step 8
 
-Voeg een beetje (crushed) ijs toe.
+Voeg een beetje (crushed) ijsblokjes toe.
 
 ### Step 9
 
@@ -57,4 +57,4 @@ Schud tot het koud is. Zeef de margarita in het glas me de suikerrand.
 
 ### Step 10
 
-Vul het glas met ijs en serveer.
+Vul het glas met ijsblokjes en serveer.

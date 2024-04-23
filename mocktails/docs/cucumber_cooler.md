@@ -8,7 +8,7 @@
 
 - 6 dunne schijfjes komkommerstrook
 - 1 ijs.
-- 2 partjes limoeni
+- 2 partjes limoen
 - 1 cl suikerwater
 - 8 blaadjes munt
 - 12 cl bruiswater
@@ -23,11 +23,11 @@ Garneer een longdrink-glas met een komkommerstrook en vul het glas met ijs.
 
 ### Step 2
 
-Het ijs zal de komkommerstrook op z'n plaats houden.
+Het ijsblokjes zal de komkommerstrook op z'n plaats houden.
 
 ### Step 3
 
-Muddle de schijfjes komkommer, partjes limoeni en het suikerwater in een shaker.
+Muddle de schijfjes komkommer, partjes limoen en het suikerwater in een shaker.
 
 ### Step 4
 
