@@ -1,0 +1,59 @@
+argcomplete @ file:///private/tmp/python-argcomplete-20240123-4975-yeh326/argcomplete-3.2.2
+Babel==2.14.0
+certifi==2024.2.2
+charset-normalizer==3.3.2
+click==8.1.7
+colorama==0.4.6
+csscompressor==0.9.5
+docutils @ file:///private/tmp/docutils-20231015-5454-w1xze4/docutils-0.20.1
+filelock==3.13.1
+fsspec==2024.3.0
+ghp-import==2.1.0
+html2text==2024.2.26
+htmlmin2==0.1.13
+idna==3.6
+Jinja2==3.1.3
+jsmin==3.0.1
+llvmlite==0.42.0
+lxml @ file:///private/tmp/python-lxml-20240108-4680-7k7if8/lxml-5.1.0
+Markdown==3.6
+MarkupSafe==2.1.5
+mergedeep==1.3.4
+mkdocs==1.5.3
+mkdocs-material==9.5.18
+mkdocs-material-extensions==1.3.1
+mkdocs-minify-plugin==0.8.0
+more-itertools==10.2.0
+mpmath==1.3.0
+networkx==3.2.1
+numba==0.59.0
+numpy==1.26.4
+openai-whisper==20231117
+openvino @ file:///private/tmp/openvino-20240120-6451-2ye6ih/openvino-2023.3.0/src/bindings/python/wheel
+packaging @ file:///private/tmp/python-packaging-20231018-5368-zv724j/packaging-23.2
+paginate==0.5.6
+pathspec @ file:///private/tmp/python-pathspec-20231212-4946-k7fih8/pathspec-0.12.1
+pbr @ file:///private/tmp/python-pbr-20231123-5189-6at10n/pbr-6.0.0
+pillow==10.2.0
+platformdirs==4.2.0
+pybind11 @ file:///private/tmp/pybind11-20231211-91223-x6mu2j/pybind11-2.11.1
+Pygments==2.17.2
+pymdown-extensions==10.8
+python-dateutil==2.9.0.post0
+PyYAML==6.0.1
+pyyaml_env_tag==0.1
+regex==2023.12.25
+requests==2.31.0
+setuptools @ file:///private/tmp/python-setuptools-20240212-4571-ixihao/setuptools-69.1.0
+six==1.16.0
+sympy==1.12
+tabulate @ file:///private/tmp/python-tabulate-20231113-17262-1dzbtg2/tabulate-0.9.0
+TBB @ file:///private/tmp/tbb-20231202-5067-9guvre/oneTBB-2021.11.0/python
+tiktoken==0.6.0
+torch==2.2.1
+tqdm==4.66.2
+typing_extensions==4.10.0
+urllib3==2.2.1
+watchdog==4.0.0
+wheel @ file:///opt/homebrew/Cellar/python%403.12/3.12.2_1/libexec/wheel-0.42.0-py3-none-any.whl#sha256=5f1ca525bef7466225922019d72cb06a9e91cd3ff807ddd4be1acb84655e5107
+yamllint @ file:///private/tmp/yamllint-20240206-5019-jd7vs0/yamllint-1.34.0
