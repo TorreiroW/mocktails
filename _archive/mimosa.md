@@ -1,6 +1,6 @@
 # Mimosa
 
-![Mimosa](assets/images/mimosa.png){ loading=lazy }
+![Mimosa](../assets/images/mimosa.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

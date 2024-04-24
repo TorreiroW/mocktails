@@ -1,6 +1,6 @@
 # Virgin Red Cheecks
 
-![Virgin Red Cheecks](assets/images/virgin-red-cheecks.png){ loading=lazy }
+![Virgin Red Cheecks](../assets/images/virgin-red-cheecks.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

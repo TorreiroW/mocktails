@@ -1,6 +1,6 @@
 # Shirly Temple
 
-![Shirly Temple](assets/images/shirly-temple.png){ loading=lazy }
+![Shirly Temple](../assets/images/shirly-temple.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |
