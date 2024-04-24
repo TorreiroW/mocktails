@@ -1,6 +1,6 @@
 # Cucumber Cooler
 
-![Cucumber Cooler](assets/images/cucumber-cooler.png){ loading=lazy }
+![Cucumber Cooler](../assets/images/cucumber-cooler.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

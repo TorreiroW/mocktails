@@ -1,6 +1,6 @@
 # Mango Mule
 
-![Mango Mule](assets/images/mango-mule.png){ loading=lazy }
+![Mango Mule](../assets/images/mango-mule.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

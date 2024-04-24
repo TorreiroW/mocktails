@@ -1,6 +1,6 @@
 # Plum Basil Bliss
 
-![Plum Basil Bliss](assets/images/plum-basil-bliss.png){ loading=lazy }
+![Plum Basil Bliss](../assets/images/plum-basil-bliss.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

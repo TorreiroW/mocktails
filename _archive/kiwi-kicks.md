@@ -1,6 +1,6 @@
 # Kiwi Kicks
 
-![Kiwi Kicks](assets/images/kiwi-kicks.png){ loading=lazy }
+![Kiwi Kicks](../assets/images/kiwi-kicks.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |

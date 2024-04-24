@@ -1,6 +1,6 @@
 # Spritz of Sunshine
 
-![Spritz of Sunshine](assets/images/spritz-of-sunshine.png){ loading=lazy }
+![Spritz of Sunshine](../assets/images/spritz-of-sunshine.png){ loading=lazy }
 
 | :fork_and_knife_with_plate: Serves | :timer_clock: Total Time |
 |:----------------------------------:|:-----------------------: |
@@ -8,16 +8,16 @@
 
 ## :salt: Ingredients
 
-- wat citroensap
+- some citroensap
 - 5 cm citroenschil
-- wat salieblaadjes
-- wat tijm
+- some salieblaadjes
+- some tijm
 - 1 ijs,
-- wat grapefruitsap
-- wat granaatappelsap
-- wat druivensap
-- wat appelciderazijn
-- wat bruiswater
+- some grapefruitsap
+- some granaatappelsap
+- some druivensap
+- some appelciderazijn
+- some bruiswater
 - 1 schijfje sinaasappel
 
 ## :cooking: Cookware
