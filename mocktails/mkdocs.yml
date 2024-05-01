@@ -56,7 +56,6 @@ extra:
 
 plugins:
   - search
-  - with-pdf
   - minify:
       minify_html: true
 
