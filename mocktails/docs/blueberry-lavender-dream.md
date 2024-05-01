@@ -8,10 +8,10 @@
 
 ## :salt: Ingredients
 
-- wat bosbessensap
+- some bosbessensap
 - 0.25 cup lavendelsiroop
 - 1 scheutje limoenade
-- wat bosbessen
+- some bosbessen
 
 ## :cooking: Cookware
 

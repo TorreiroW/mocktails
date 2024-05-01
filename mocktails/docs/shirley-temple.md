@@ -23,40 +23,16 @@
 
 ### Step 1
 
-Shirley Temple
+Schenk het glas voor de helft vol met ijsblokjes.
 
 ### Step 2
 
-25 ml grenadine
+Schenk de grenadine in het glas en vul aan met Sprite en Ginger Ale.
 
 ### Step 3
 
-100 ml sprite
-
-### Step 4
-
-100 ml ginger ale
-
-### Step 5
-
-4 kersen
-
-### Step 6
-
-Cocktailprikker
-
-### Step 7
-
-Schenk het glas voor de helft vol met ijsblokjes.
-
-### Step 8
-
-Schenk de grenadine in het glas en vul aan met Sprite en Ginger Ale.
-
-### Step 9
-
 Roer het geheel voorzichtig door elkaar.
 
-### Step 10
+### Step 4
 
 Rijg de kersen aan de cocktailprikker en leg op het glas.

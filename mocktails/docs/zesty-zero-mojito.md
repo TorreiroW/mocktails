@@ -10,7 +10,7 @@
 
 - 6 pcs muntblaadjes
 - 1 tbsp limoensap
-- wat suiker
+- some suiker
 - 1 ijsblokjes
 - 1 bsp siroop
 - 100 ml sprite

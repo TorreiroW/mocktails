@@ -1,6 +1,6 @@
 # Blue Lagoon
 
-![Blue Lagoon](../assets/images/blue-lagoon.png){ loading=lazy }
+![Blue Lagoon](assets/images/blue-lagoon.png){ loading=lazy }
 
 | :timer_clock: Total Time |
 |:-----------------------: |

@@ -16,6 +16,8 @@
 
 ## :cooking: Cookware
 
+- 1 blender
+
 ## :pencil: Instructions
 
 ### Step 1
